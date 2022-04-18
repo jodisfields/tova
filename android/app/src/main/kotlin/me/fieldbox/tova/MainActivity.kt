@@ -1,0 +1,6 @@
+package me.fieldbox.tova
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
